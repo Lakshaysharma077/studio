@@ -1,3 +1,34 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-garage",
+      "description": "A modern garage door on a suburban home.",
+      "imageUrl": "https://images.unsplash.com/photo-1541737949652-27149c8e786d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxnYXJhZ2UlMjBkb29yfGVufDB8fHx8MTc2Nzg2MTkzMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "garage door"
+    },
+    {
+      "id": "service-installation",
+      "description": "A technician installing a new garage door.",
+      "imageUrl": "https://images.unsplash.com/photo-1766384093191-7803c8dd8122?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxnYXJhZ2UlMjBpbnN0YWxsYXRpb258ZW58MHx8fHwxNzY3ODYxOTMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "garage installation"
+    },
+    {
+      "id": "service-repair",
+      "description": "A close-up of tools used for garage door repair.",
+      "imageUrl": "https://images.unsplash.com/photo-1676035292552-2aad11e836de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Z2FyYWdlJTIwcmVwYWlyfGVufDB8fHx8MTc2Nzg2MTkzMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "garage repair"
+    },
+    {
+      "id": "service-emergency",
+      "description": "A phone displaying an emergency call screen.",
+      "imageUrl": "https://images.unsplash.com/photo-1698868551157-22199113e2e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZW1lcmdlbmN5JTIwY2FsbHxlbnwwfHx8fDE3Njc4NjE5MzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "emergency call"
+    },
+    {
+      "id": "contact-us",
+      "description": "A modern office setting for a contact page background",
+      "imageUrl": "https://images.unsplash.com/photo-1703669020898-428cc4765bbe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxvZmZpY2UlMjBjb250YWN0fGVufDB8fHx8MTc2Nzg2MTkzMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "office contact"
+    }
+  ]
 }
